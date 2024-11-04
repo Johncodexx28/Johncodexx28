@@ -7,8 +7,21 @@ I'm a Fullstack Developer based on the Philippines
 * 💻 I have experience in both frontend and backend development, with a focus on creating seamless user experiences and efficient server-side solutions.
 * 🌱 I'm constantly learning and exploring new technologies to improve my skills and contribute to innovative projects.
 * ✉️ Feel free to reach out if you want to collaborate or discuss web development!
-  
-**Tools**
 
-![image](https://github.com/user-attachments/assets/831df997-788a-4a44-ab2f-3596b2f339f4)
+
+  
+**Language and Tools**
+
+![html](https://github.com/user-attachments/assets/5eaee3d8-1ac1-4477-bc40-6ec1a653e7d4)
+![text](https://github.com/user-attachments/assets/85b7dd7c-a13a-4d2e-b8f3-75f2428a820d)
+![java-script](https://github.com/user-attachments/assets/026874f6-cca2-458d-a4df-84194aa0deb3)
+![typescript](https://github.com/user-attachments/assets/7bd34935-541e-406c-9410-2f14792419f6)
+![python](https://github.com/user-attachments/assets/5ba851b9-154d-42a1-b44a-7f1952eba05f)
+![physics](https://github.com/user-attachments/assets/7ef3b9af-2d95-40a2-8197-7a7f1eba5925)
+![bootstrap](https://github.com/user-attachments/assets/4e9640b1-8d70-48a7-abc3-61a4c9a1e47c)
+![social](https://github.com/user-attachments/assets/aea16f4b-884a-446f-a597-2a61d8653b08)
+![figma](https://github.com/user-attachments/assets/f5d08164-4592-41c9-9fbf-872a9335cfd7)
+
+
+
 
