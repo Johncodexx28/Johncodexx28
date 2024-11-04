@@ -1,7 +1,7 @@
 **Hi, I'm John** 👋
 ___________________________________________________
 
-I'm a Fullstack Developer based on the Philippines 
+I'm a Fullstack Developer based on the Philippines. 
 
 * 🏫 I'm currently a student at Phinma University of Iloilo
 * 💻 I have experience in both frontend and backend development, with a focus on creating seamless user experiences and efficient server-side solutions.
