@@ -30,8 +30,10 @@ ___________________________________________________
 ![bootstrap](https://github.com/user-attachments/assets/4e9640b1-8d70-48a7-abc3-61a4c9a1e47c)
 ![social](https://github.com/user-attachments/assets/aea16f4b-884a-446f-a597-2a61d8653b08)
 ![figma](https://github.com/user-attachments/assets/f5d08164-4592-41c9-9fbf-872a9335cfd7)
+___________________________________________________
 
 ## 🗂️ My Past Projects:
+
 * [Online Classroom Management System](https://link-to-your-classroom-system.com) 
 * [Personal Blog](https://link-to-your-blog.com)
 * [E-commerce Site](https://link-to-your-ecommerce-site.com) 
