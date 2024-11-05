@@ -1,9 +1,10 @@
-**Hi, I'm John** 👋
+# Hi 👋, I'm John 
 ___________________________________________________
 
 I'm a Fullstack Developer based on the Philippines. 
 
-* 🏫 I'm currently a student at Phinma University of Iloilo
+* 🏫 I'm currently a student at Phinma University of Iloilo.
+* 🔭 I’m currently working on Online Classroom MAnagement System
 * 💻 I have experience in both frontend and backend development, with a focus on creating seamless user experiences and efficient server-side solutions.
 * 🌱 I'm constantly learning and exploring new technologies to improve my skills and contribute to innovative projects.
 * ✉️ Feel free to reach out if you want to collaborate or discuss web development!
